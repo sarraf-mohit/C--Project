@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<TestData>
+	<Site>
+		<Url>https://www.amazon.in/</Url>
+	</Site>	
+	
+	<User>
+		<Username>stbymkt@gmail.com</Username>
+		<Password>password123</Password>
+	</User>
+</TestData>	
+		
